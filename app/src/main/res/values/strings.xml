@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My first application</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="jj_watts_success">Success isn\'t owned. It\'s leased, and rent is due every day.
+    -J.J Watts</string>
+    <string name="hemingway_drunkMN">Write drunk. Edit sober. -Ernest Hemingway</string>
+    <string name="mtg_vindicate">Some convictions are so strong that the world must break to
+    accommodate them. -Vindicate</string>
+    <string name="hammerbacher_clicks">The best minds of my generations are thinking about how to
+    make people click adds. That sucks. -Jeff Hammerbacher.</string>
+    <string name="picasso_undone">Only put off until tomorrow what you are willing to die having
+    left undone. -Pablo Picasso</string>
+    <string name="frost_freedom">Freedom lies in being Bold. -Robert Frost</string>
+    <string name="rdj_do_anyway">Listen, Smile, Agree, then do whatever the fuck you were going
+    to do anyway. -Robert Downey Jr.</string>
+    <string name="williamson_powerful">(…)Our deepest fear is not that we are inadequate. Our
+    deepest fear is that we are powerful beyond measure(…)-Marianne Williamson</string>
+    <string name="acp_20_years">The best time to plant a tree was 20 years ago. The second best
+    time is now. -Ancient Chinese Proverb</string>
+    <string name="hamilton_stand">Those who stand for nothing, fall for anything.
+    -Alexander Hamilton</string>
+    <string name="eliot_far">Only those who risk going too far can possibly find out how far one
+    can go. -T.S.Eliot</string>
+    <string name="tzu_power">Mastering others is strength. Mastering yourself is true power.</string>
+    <string name="belfort_bullshit">The only thing standing between you and your goal is the
+    bullshit story you keep telling yourself as to why you can\'t achieve it. -Jordan Belfort.</string>
+    <string name="robbins_boat">If you want to take the island, burn the boat. -Tony Robbins</string>
+    <string name="edison_exhausted">When you have exhausted all possibilities remember this: You
+    haven\'t. -Thomas A. Edison</string>
+    <string name="jobs_naked">Remembering that you are going to die is the best way I know to
+    avoid the trap of thinking you have something to lose. You are already naked, there is no reason
+    not to follow your heart. -Steve Jobs</string>
+    <string name="title_activity_display_message">My message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+
+</resources>
